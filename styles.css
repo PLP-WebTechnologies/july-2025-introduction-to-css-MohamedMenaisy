@@ -1,0 +1,19 @@
+p{
+    color: rgb(209, 184, 17);
+    font-size: 26px;
+}
+#heading{
+    color: blueviolet;
+}
+.do{
+    background-color: aqua;
+    border: 1px solid black;
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+body{
+    background-color: chartreuse;
+}
